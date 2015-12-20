@@ -4,7 +4,7 @@ Elenco dei programmi realizzati durante le scuole superiori e in anni successivi
 
 Nome | Tipo | Link | Data | Descrizione | Altre informazioni
 ------------- | ----------- | ----------- | ----------- | ----------- | -----------
-[pascal/Affinity_v1.0.exe](Affinity v. 1.0) | Turbo Pascal 7.0 |  | 15/03/2004 | Calcola l'affinità di coppia | da un'idea di Anthony Barone
+[Affinity v. 1.0](pascal/Affinity_v1.0.exe) | Turbo Pascal 7.0 |  | 15/03/2004 | Calcola l'affinità di coppia | da un'idea di Anthony Barone
 Affinity v. 2.0 | Turbo Pascal 7.0 | Affinity_v2.0.exe | 15/03/2004 | Calcola l'affinità di coppia | da un'idea di Anthony Barone
 Area triangolo v. 1.0 | Turbo Pascal 7.0 | Area_triangolo_v1.0.exe | 15/03/2004 | Calcola l'area di un triangolo | 
 Divisori v. 1.0 | Turbo Pascal 7.0 | Divisori_v1.0.exe | 15/03/2004 | Calcola i comuni divisori tra due numeri | 
